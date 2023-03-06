@@ -10,7 +10,7 @@ name: "Rocío",
 ocupations: ["Backend developer", "Dog Groomer"],
 level: "Junior",
 skills: ["JavaScript", "MySQL", "nodeJs", "MongoBD", "Express", "CSS", "HTML5", "Bootstrap", "npm", "MVC", "CRUM", "Git", "GitHub", "REST"],
-student: true,,
+student: true,
 learning: "php",
 }
 ```
