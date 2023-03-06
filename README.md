@@ -1,16 +1,24 @@
-### Hi there 👋
-
+### Hola! 👋
+✨ *Mi nombre es Rocío y soy programadora juniot back-end* ✨
+Utilizo JavaScript (nodeJS, Express, npm), bases de datos SQL Y no SQL.
+🌱 Actualmente estoy aprendiendo PHP.
+Me podes encontrar en LinkedIn:  😄  
+ 
+ `
+const rcrecalde= {
+name: "Rocío",
+ocupations: ["Backend developer", "Dog Groomer"],
+level: "Junior",
+skills: ["JavaScript", "MySQL", "nodeJs", "MongoBD", "Express", "CSS", "HTML5", "Bootstrap", "npm", "MVC", "CRUM", "Git", "GitHub", "REST"],
+student: true
+}
+`
+ 
 <!--
-**RCRecalde/RCRecalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hola! 👋
+✨ *Mi nombre es Rocío y soy programadora juniot back-end* ✨
+Utilizo JavaScript (nodeJS, Express, npm), bases de datos SQL Y no SQL.
+🌱 Actualmente estoy aprendiendo PHP.
+Me podes encontrar en LinkedIn:  😄  
+ 
 -->
