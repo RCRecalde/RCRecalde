@@ -1,5 +1,5 @@
 ### Hola! 👋
-- ✨ *Mi nombre es Rocío y soy programadora juniot back-end* ✨
+- ✨ *Mi nombre es Rocío y soy programadora junior* ✨
 - Utilizo JavaScript (nodeJS, Express, npm), bases de datos SQL Y no SQL.
 - 🌱 Actualmente estoy aprendiendo PHP.
 - Me podes encontrar en [LinkedIn](https://www.linkedin.com/in/roc%C3%ADo-recalde-b4a399265/)  😄  
