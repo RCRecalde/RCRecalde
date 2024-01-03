@@ -9,8 +9,8 @@ const rcrecalde= {
 name: "Rocío",
 ocupations: ["FullStack developer", "Dog Groomer"],
 level: "Junior",
-skills: ["JavaScript", "MySQL", "nodeJs", "MongoBD", "Express", "CSS", "HTML5", "Bootstrap", "MVC", "SCRUM", "Git", "GitHub", "REST", "React"],
+skills: ["JavaScript", "MySQL", "nodeJs", "MongoBD", "Express", "CSS", "HTML5", "Bootstrap", "MVC", "SCRUM", "Git", "GitHub", "REST", "React", "TypeScript"],
 student: true,
-learning: "php", "UX/UI Design",
+learning: "UX/UI Design"
 }
 ```
