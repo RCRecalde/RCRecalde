@@ -1,7 +1,7 @@
 ### Hola! 👋
 - ✨ *Mi nombre es Rocío y soy programadora junior* ✨
-- Utilizo JavaScript, bases de datos SQL Y no SQL.
-- 🌱 Actualmente estoy aprendiendo PHP y Diseño UX/UI.
+- Utilizo JavaScript/TypeScript, bases de datos SQL Y no SQL.
+- 🌱 Actualmente estoy aprendiendo Diseño UX/UI y centrándome en programación FrontEnd.
 - Me podes encontrar en [LinkedIn](https://www.linkedin.com/in/roc%C3%ADo-recalde-b4a399265/)  😄  
 
 ```javascript
